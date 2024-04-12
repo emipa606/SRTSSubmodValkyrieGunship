@@ -57,8 +57,9 @@ V1.2: Fixed typo in texture path making the plane flies backward.
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
+-  Use https://github.com/RimSort/RimSort/releases/latest]RimSort to sort your mods
 
 
 
-https://steamcommunity.com/sharedfiles/filedetails/changelog/]![Image](https://img.shields.io/github/v/release/emipa606/SRTSSubmodValkyrieGunship?label=latest%20version&style=plastic&color=9f1111&labelColor=black)
+https://steamcommunity.com/sharedfiles/filedetails/changelog/3040169760]![Image](https://img.shields.io/github/v/release/emipa606/SRTSSubmodValkyrieGunship?label=latest%20version&style=plastic&color=9f1111&labelColor=black)
 

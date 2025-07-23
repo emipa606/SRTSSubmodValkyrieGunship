@@ -67,7 +67,7 @@
     <defName>40KValkyrie_Active</defName>
     <label>Gunship active</label>
     <category>Item</category>
-    <thingClass>ActiveDropPod</thingClass>
+    <thingClass>ActiveTransporter</thingClass>
     <scatterableOnMapGen>false</scatterableOnMapGen>
     <tickerType>Normal</tickerType>
     <graphicData>

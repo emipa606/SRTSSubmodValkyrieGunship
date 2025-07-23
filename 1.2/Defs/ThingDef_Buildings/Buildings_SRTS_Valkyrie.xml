@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <ThingDef ParentName="NECShipBase">
     <defName>40KValkyrie</defName>
@@ -59,7 +59,7 @@ Internal power plant: 6.500w</description>
       <li Class="SRTS.CompProperties_BombsAway">
         <numberBombs>38</numberBombs>
         <precisionBombingNumBombs>8</precisionBombingNumBombs>
-        <radiusOfDrop>7.5</radiusOfDrop>
+        <radiusOfDrop>8</radiusOfDrop>
         <speed>1</speed>
         <distanceBetweenDrops>1</distanceBetweenDrops>
       </li>
